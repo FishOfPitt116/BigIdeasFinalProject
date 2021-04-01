@@ -2,7 +2,7 @@
 Group Members: Jeremy Romano, Anna Heltz, Robbie Fishel
 Team Name: Team JAR
 ## Emails: 
-Jeremy:jar315@pitt.edu
+Jeremy: jar315@pitt.edu
 Anna: anh190@pitt.edu
 Robbie: rmf105@pitt.edu
 ## Links to Data Sets:
