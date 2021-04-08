@@ -1,5 +1,4 @@
-Neighborhood,Id,Estimate; Aggregate household income in the past 12 months (in 2015 Inflation-adjusted dollars),Margin of Error; Aggregate household income in the past 12 months (in 2015 Inflation-adjusted dollars)
-Allegheny Center,1,39947000,6437773
+Neighborhood,Id,Aggregate_household_income,Margin_of_Error
 Allegheny West,2,23793300,22025939
 Allentown,3,38303700,7490207.043
 Arlington,4,35349900,6140662.723
