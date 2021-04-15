@@ -19,4 +19,6 @@ Jeremy: https://data.wprdc.org/dataset/city-trees   (Trees)
 https://docs.google.com/spreadsheets/d/1fp94gJxmO2eikIQ6tYzpXmvhF0KNzqf_L1GY_6JuF1g/edit#gid=0    (Neighborhood areas in acres)
 
 ## Abstract:
-This is our big ideas final project in which we determine what the best neighborhood in Pittsburgh is using a variety of statistics. Jeremy reviewed the amount of trees in each neighborhood, Anna took into account aggregate housing price, and Robbie calculated crime rate. We used these three metrics evenly to determine which neighborhood was ultimately the best.
+This is our big ideas final project in which we determine what the best neighborhood in Pittsburgh is using a variety of statistics. Jeremy reviewed the amount of trees in each neighborhood, Anna took into account aggregate household income, and Robbie calculated crime rate. We used these three metrics evenly to determine which neighborhood was ultimately the best.
+
+Specifically, we found the top 10 neighborhoods for each metric, and then gave each neighborhood points based on their ranking. 1st place received 10 points, 2nd place received 9 points, and so on. Using this system, ##Squirrel Hill North## ranked #1, with 26 points. 
