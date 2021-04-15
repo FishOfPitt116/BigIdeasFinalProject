@@ -15,7 +15,8 @@ Robbie: https://data.wprdc.org/dataset/arrest-data
 
 https://data.wprdc.org/dataset/pgh/resource/8ac5c768-09ba-43a8-829f-ce4a417d20fb
 
-Jeremy: https://data.wprdc.org/dataset/city-trees
+Jeremy: https://data.wprdc.org/dataset/city-trees   (Trees)
+https://docs.google.com/spreadsheets/d/1fp94gJxmO2eikIQ6tYzpXmvhF0KNzqf_L1GY_6JuF1g/edit#gid=0    (Neighborhood areas in acres)
 
 ## Abstract:
 This is our big ideas final project in which we determine what the best neighborhood in Pittsburgh is using a variety of statistics. Jeremy reviewed the amount of trees in each neighborhood, Anna took into account aggregate housing price, and Robbie calculated crime rate. We used these three metrics evenly to determine which neighborhood was ultimately the best.
